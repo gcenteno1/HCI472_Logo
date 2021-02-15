@@ -284,7 +284,8 @@ h1, h2, h3, h4, h5,
 #sidebar {
   min-width: 250px;
   max-width: 250px;
-  background: #343a40;
+  background: #5D5D6F;
+	opacity: 90%;
   color: #fff;
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
@@ -563,3 +564,4 @@ a[data-toggle="collapse"] {
 
 #type3-link a:vistied{
 	color:#023559;}
+w
