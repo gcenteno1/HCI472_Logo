@@ -1,2 +1,2 @@
-# HCI472_Typography
-Typography Hierarchy assignment for HCI 472.
+# HCI472_Logo
+Logo assignment for HCI 472.
