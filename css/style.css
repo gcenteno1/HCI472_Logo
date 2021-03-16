@@ -285,7 +285,7 @@ h1, h2, h3, h4, h5,
 #sidebar {
   min-width: 250px;
   max-width: 250px;
-  background: #f6f6f6;
+  background: #f6f6f6 !important;
 	opacity: 90%;
   color: #333333;
   -webkit-transition: all 0.3s;
@@ -415,114 +415,7 @@ a[data-toggle="collapse"] {
 #typedetails li{
 	list-style: none;
 }
-/*
 
-Hierarchy 1
-
-#type1-H1{
-	font-size: 3.052rem;
-	color:#333333;
-	font-family: 'Lato', sans-serif;}
-
-#type1-H2{
-	font-size: 2.441rem;
-	color:#333333;
-	font-family: 'Lato', sans-serif;}
-
-#type1-H3{
-	font-size: 1.953rem;
-	color:#333333;
-	font-family: 'Lato', sans-serif;}
-
-#type1-H4{
-	font-size: 1.563rem;
-	color:#333333;
-	font-family: 'Lato', sans-serif;}
-
-#type1-P{
-	font-size: 1rem;
-	color:#333333;
-	letter-spacing: .023rem;	
-	font-family: 'Aleo', serif;
-	font-weight: 400;}
-
-#type1-Em{
-	font-size: 1rem;
-	color:#333333;
-	letter-spacing: .023rem;	
-	font-family: 'Aleo', serif;
-	font-weight: 700;}
-
-#type1-link{
-	font-size: 1rem;
-	letter-spacing: .023rem;	
-	font-family: 'Aleo', serif;
-	font-weight: 400;}
-
-#type1-link a{
-	color:#0B88E1}
-
-#type1-link a:hover{
-	color:#409EE0;
-	text-decoration: underline;}
-
-#type1-link a:vistied{
-	color:#023559;}
-
-Hierarchy 2
-
-#type2-H1{
-	font-size: 2.441rem;
-	color:#333333;
-	font-family: 'Bitter', serif;}
-
-#type2-H2{
-	font-size: 1.953rem; 
-	color:#333333;
-	font-family: 'Bitter', serif;}
-
-#type2-H3{
-	font-size: 1.563rem;
-	color:#333333;
-	font-family: 'Bitter', serif;}
-
-#type2-H4{
-	font-size: 1.25rem;
-	color:#333333;
-	font-family: 'Bitter', serif;}
-
-#type2-P{
-	font-size: 1rem;
-	color:#333333;
-	letter-spacing: .035rem;	
-	font-family: 'Bitter', serif;
-	font-weight: 400;}
-
-#type2-Em{
-	font-size: 1rem;
-	color:#333333;
-	letter-spacing: .035rem;	
-	font-family: 'Bitter', serif;
-	font-weight: 500;}
-
-#type2-link{
-	font-size: 1rem;
-	letter-spacing: .035rem;	
-	font-family: 'Bitter', serif;
-	font-weight: 400;
-}
-
-#type2-link a{
-	color:#0B88E1;	
-	text-decoration: underline;}
-
-#type2-link a:hover{
-	color:#409EE0;
-	text-decoration:none;}
-
-#type2-link a:vistied{
-	color:#023559;}
-*/
 
 /*Hierarchy 3*/
 
